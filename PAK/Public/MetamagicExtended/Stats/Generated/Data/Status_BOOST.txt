@@ -1,0 +1,5 @@
+new entry "CAREFUL_SCULPT_SPELLS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Passives" "SculptSpells"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
