@@ -4,8 +4,8 @@
       "modName": "MetamagicExtendedCarefulSpell",
       "UUID": "5f4d5b83-346a-46b1-a2cf-4b3e5eeffa02",
       "folderName": "MetamagicExtendedCarefulSpell",
-      "Description": "Metamagic Extended Careful Spell Tweak",
-      "version": "1.0.0.0",
+      "Description": "Makes Careful Spell mimic Sculpted Spells",
+      "version": "1.0.1.0",
       "MD5": ""
     }
   ]
