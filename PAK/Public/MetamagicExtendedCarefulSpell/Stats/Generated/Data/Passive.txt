@@ -1,7 +1,7 @@
 new entry "Metamagic_Careful"
 type "PassiveData"
 data "DisplayName" "hc4758e5dg1f1dg424agadb4gc491239fcc29;1"
-data "Description" "h64f78215gd47bg4c27gb0ceg3ee5003c972e;3"
+data "Description" "d341071f-4a1a-47ab-8f5c-ad0033141452;1"
 data "DescriptionParams" "1"
 data "Icon" "Skill_Sorcerer_Passive_Metamagic_CarefulSpell"
 data "EnabledConditions" "HasActionResource('SorceryPoint', 1, 0, false, false, context.Source)"
